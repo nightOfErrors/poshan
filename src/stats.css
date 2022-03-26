@@ -1,0 +1,13 @@
+.graphsContainer {
+  box-shadow: 0px 12px 14px 0px rgba(0, 0, 0, 0.76);
+  -webkit-box-shadow: 0px 12px 14px 0px rgba(0, 0, 0, 0.76);
+  -moz-box-shadow: 0px 12px 14px 0px rgba(0, 0, 0, 0.76);
+}
+
+.inGraph {
+
+    border: 1px solid grey;
+    width: 50%;
+    height: 350px;
+
+}
